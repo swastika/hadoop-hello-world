@@ -9,3 +9,4 @@ target
 /setexpt
 **/nbactions.xml
 **/nb-configuration.xml
+*.DS_Store
